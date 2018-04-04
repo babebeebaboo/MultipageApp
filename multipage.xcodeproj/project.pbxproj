@@ -12,6 +12,7 @@
 		3BB480202074DE5000813066 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BB4801E2074DE5000813066 /* Main.storyboard */; };
 		3BB480222074DE5000813066 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BB480212074DE5000813066 /* Assets.xcassets */; };
 		3BB480252074DE5000813066 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BB480232074DE5000813066 /* LaunchScreen.storyboard */; };
+		3BB4802D207520E900813066 /* pages2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4802C207520E900813066 /* pages2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3BB480212074DE5000813066 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BB480242074DE5000813066 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3BB480262074DE5000813066 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BB4802C207520E900813066 /* pages2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pages2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3BB4801A2074DE5000813066 /* AppDelegate.swift */,
 				3BB4801C2074DE5000813066 /* ViewController.swift */,
+				3BB4802C207520E900813066 /* pages2ViewController.swift */,
 				3BB4801E2074DE5000813066 /* Main.storyboard */,
 				3BB480212074DE5000813066 /* Assets.xcassets */,
 				3BB480232074DE5000813066 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				3BB4801D2074DE5000813066 /* ViewController.swift in Sources */,
 				3BB4801B2074DE5000813066 /* AppDelegate.swift in Sources */,
+				3BB4802D207520E900813066 /* pages2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
