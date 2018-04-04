@@ -9,7 +9,11 @@
 import UIKit
 
 class pages2ViewController: UIViewController {
-
+    
+    @IBAction func Go_to_page1_button(_ sender: UIButton) {
+      print("Go to page1")
+    }
+  
     override func viewDidLoad() {
         super.viewDidLoad()
 
